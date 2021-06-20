@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the PMIP4 code repository
 
-You can use the [editor on GitHub](https://github.com/pmip4/pmip4.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This organisation collects together the various pieces of code that have been contributed and deal with PMIP4 simulations in analyses. It is a place to enable scripts to be shared and found with fellow researchers. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The codes here range from a single python script creating a single figure to large analysis packages that are aimed to be run on many different simulations at once. One or two of them may even come as Docker images that allow analyses to be performed within a platform-agnostic container. 
 
-### Markdown
+If you would like to volunteer your own piece of code, please contact Chris to be added to this organisation. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmip4/pmip4.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The repos currently stored here are:
+1. **[PMIP_resolution_improvements](https://github.com/pmip4/PMIP_resolution_improvements)** creates a plot showing the changes in resolution over all 4 generations of PMIP (Chris Brierley)
